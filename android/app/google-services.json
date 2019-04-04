@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "741107354197",
+    "firebase_url": "https://rn-phoneauth.firebaseio.com",
+    "project_id": "rn-phoneauth",
+    "storage_bucket": "rn-phoneauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741107354197:android:435ae33c09c8ddfc",
+        "android_client_info": {
+          "package_name": "com.rntestefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5PeIYm4rE-r3qKDNs7nfgmuGFmNu6qgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741107354197-j0n8nr0o9ml68mqm8rnnh2m6atkr13nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
